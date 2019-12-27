@@ -28,7 +28,7 @@ import com.bdd.pontointeligentejava.api.services.EmpresaService;
 @SpringBootTest
 @AutoConfigureMockMvc
 @ActiveProfiles("test")
-@WithMockUser //<= para spring 2, precisei adicionar esta annotation
+@WithMockUser
 public class EmpresaControllerTest {
 	
 	@Autowired
