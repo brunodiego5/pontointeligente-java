@@ -9,7 +9,7 @@ import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Service;
 
 import com.bdd.pontointeligentejava.api.entities.Funcionario;
-import com.bdd.pontointeligentejava.api.secuity.JwtUserFactory;
+import com.bdd.pontointeligentejava.api.security.JwtUserFactory;
 import com.bdd.pontointeligentejava.api.services.FuncionarioService;
 
 @Service

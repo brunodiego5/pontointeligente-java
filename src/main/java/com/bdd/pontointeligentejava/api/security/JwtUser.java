@@ -1,4 +1,4 @@
-package com.bdd.pontointeligentejava.api.secuity;
+package com.bdd.pontointeligentejava.api.security;
 
 import java.util.Collection;
 
